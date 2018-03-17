@@ -1,4 +1,4 @@
-package com.uepb.tcc.entreosmelhores;
+package com.uepb.tcc.racingcar;
 
 public class PilotoAutomatico extends Piloto {
 

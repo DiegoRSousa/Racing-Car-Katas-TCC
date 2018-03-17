@@ -1,0 +1,137 @@
+package com.uepb.tcc.racingcar.randoop;
+
+import org.junit.FixMethodOrder;
+import org.junit.Test;
+import org.junit.runners.MethodSorters;
+
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+public class RegressionTest0 {
+
+    public static boolean debug = false;
+
+    @Test
+    public void test1() throws Throwable {
+        if (debug)
+            System.out.format("%n%s%n", "RegressionTest0.test1");
+        com.uepb.tcc.racingcar.DistribuidorDeBilhete distribuidorDeBilhete0 = new com.uepb.tcc.racingcar.DistribuidorDeBilhete();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno1 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno2 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno3 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno4 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno5 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno6 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno7 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno8 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno9 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno10 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno11 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno12 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno13 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno14 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno15 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno16 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno17 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno18 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno19 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno20 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno21 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno22 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno23 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno24 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno25 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno26 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno27 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno28 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno29 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno30 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno31 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno32 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno33 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno34 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno35 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno36 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno37 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno38 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno39 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno40 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno41 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno42 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno43 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno44 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno45 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno46 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno47 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno48 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno49 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno50 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno51 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno52 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno53 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno54 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno55 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno56 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno57 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno58 = distribuidorDeBilhete0.getTurnTicket();
+        com.uepb.tcc.racingcar.BilheteDeTurno bilheteDeTurno59 = distribuidorDeBilhete0.getTurnTicket();
+        org.junit.Assert.assertNotNull(bilheteDeTurno1);
+        org.junit.Assert.assertNotNull(bilheteDeTurno2);
+        org.junit.Assert.assertNotNull(bilheteDeTurno3);
+        org.junit.Assert.assertNotNull(bilheteDeTurno4);
+        org.junit.Assert.assertNotNull(bilheteDeTurno5);
+        org.junit.Assert.assertNotNull(bilheteDeTurno6);
+        org.junit.Assert.assertNotNull(bilheteDeTurno7);
+        org.junit.Assert.assertNotNull(bilheteDeTurno8);
+        org.junit.Assert.assertNotNull(bilheteDeTurno9);
+        org.junit.Assert.assertNotNull(bilheteDeTurno10);
+        org.junit.Assert.assertNotNull(bilheteDeTurno11);
+        org.junit.Assert.assertNotNull(bilheteDeTurno12);
+        org.junit.Assert.assertNotNull(bilheteDeTurno13);
+        org.junit.Assert.assertNotNull(bilheteDeTurno14);
+        org.junit.Assert.assertNotNull(bilheteDeTurno15);
+        org.junit.Assert.assertNotNull(bilheteDeTurno16);
+        org.junit.Assert.assertNotNull(bilheteDeTurno17);
+        org.junit.Assert.assertNotNull(bilheteDeTurno18);
+        org.junit.Assert.assertNotNull(bilheteDeTurno19);
+        org.junit.Assert.assertNotNull(bilheteDeTurno20);
+        org.junit.Assert.assertNotNull(bilheteDeTurno21);
+        org.junit.Assert.assertNotNull(bilheteDeTurno22);
+        org.junit.Assert.assertNotNull(bilheteDeTurno23);
+        org.junit.Assert.assertNotNull(bilheteDeTurno24);
+        org.junit.Assert.assertNotNull(bilheteDeTurno25);
+        org.junit.Assert.assertNotNull(bilheteDeTurno26);
+        org.junit.Assert.assertNotNull(bilheteDeTurno27);
+        org.junit.Assert.assertNotNull(bilheteDeTurno28);
+        org.junit.Assert.assertNotNull(bilheteDeTurno29);
+        org.junit.Assert.assertNotNull(bilheteDeTurno30);
+        org.junit.Assert.assertNotNull(bilheteDeTurno31);
+        org.junit.Assert.assertNotNull(bilheteDeTurno32);
+        org.junit.Assert.assertNotNull(bilheteDeTurno33);
+        org.junit.Assert.assertNotNull(bilheteDeTurno34);
+        org.junit.Assert.assertNotNull(bilheteDeTurno35);
+        org.junit.Assert.assertNotNull(bilheteDeTurno36);
+        org.junit.Assert.assertNotNull(bilheteDeTurno37);
+        org.junit.Assert.assertNotNull(bilheteDeTurno38);
+        org.junit.Assert.assertNotNull(bilheteDeTurno39);
+        org.junit.Assert.assertNotNull(bilheteDeTurno40);
+        org.junit.Assert.assertNotNull(bilheteDeTurno41);
+        org.junit.Assert.assertNotNull(bilheteDeTurno42);
+        org.junit.Assert.assertNotNull(bilheteDeTurno43);
+        org.junit.Assert.assertNotNull(bilheteDeTurno44);
+        org.junit.Assert.assertNotNull(bilheteDeTurno45);
+        org.junit.Assert.assertNotNull(bilheteDeTurno46);
+        org.junit.Assert.assertNotNull(bilheteDeTurno47);
+        org.junit.Assert.assertNotNull(bilheteDeTurno48);
+        org.junit.Assert.assertNotNull(bilheteDeTurno49);
+        org.junit.Assert.assertNotNull(bilheteDeTurno50);
+        org.junit.Assert.assertNotNull(bilheteDeTurno51);
+        org.junit.Assert.assertNotNull(bilheteDeTurno52);
+        org.junit.Assert.assertNotNull(bilheteDeTurno53);
+        org.junit.Assert.assertNotNull(bilheteDeTurno54);
+        org.junit.Assert.assertNotNull(bilheteDeTurno55);
+        org.junit.Assert.assertNotNull(bilheteDeTurno56);
+        org.junit.Assert.assertNotNull(bilheteDeTurno57);
+        org.junit.Assert.assertNotNull(bilheteDeTurno58);
+        org.junit.Assert.assertNotNull(bilheteDeTurno59);
+    }
+}
+

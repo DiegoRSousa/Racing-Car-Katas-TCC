@@ -1,4 +1,4 @@
-package com.uepb.tcc.sistemadetelemetria;
+package com.uepb.tcc.racingcar;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.uepb.tcc.distribuidordebilhetedeturno;
+package com.uepb.tcc.racingcar;
 
 public class NumeroSequenciaTurno {
 

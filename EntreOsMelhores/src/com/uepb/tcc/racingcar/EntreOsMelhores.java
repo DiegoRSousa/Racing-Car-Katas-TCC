@@ -1,4 +1,4 @@
-package com.uepb.tcc.entreosmelhores;
+package com.uepb.tcc.racingcar;
 
 import java.util.ArrayList;
 import java.util.Arrays;
