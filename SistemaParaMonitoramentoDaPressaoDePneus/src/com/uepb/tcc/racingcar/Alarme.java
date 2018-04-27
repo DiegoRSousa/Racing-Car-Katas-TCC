@@ -10,11 +10,14 @@ public class Alarme {
 	boolean alarmeLigado = false;
 
 	public void verifica() {
-		double valorPressaoPsi = sensor.popValorPsiProximaPressao();
-
-		if (valorPressaoPsi < limiteBaixaPressao || limiteAltaPressao < valorPressaoPsi) {
+		if (estaForaDolimite()) {
 			alarmeLigado = true;
 		}
+	}
+	
+	private boolean estaForaDolimite() {
+		double valorPressaoPsi = sensor.popValorPsiProximaPressao();
+		return (valorPressaoPsi < limiteBaixaPressao || limiteAltaPressao < valorPressaoPsi);
 	}
 
 	public boolean isAlarmeLigado() {
